@@ -136,9 +136,7 @@ Development Roadmap
 
 TEST
 
-Smart Contract: Deploy on ØG testnet; test storage, burn, merge cycles.
+Smart Contract :test storage, burn, merge cycles.
 
-Frontend: Build React UI with Web3.js integration.
-
-AI Tuning: Define fusion logic. ØG ORACLE. 
+MORE UPDATES WILL BE MADE AVAILABLE AS WE BUILD. WE WOULD LOVE TO GE5 STARTED WITH TESTS ON OG LABS 
  
