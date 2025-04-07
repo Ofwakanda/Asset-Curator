@@ -1,142 +1,194 @@
-This proposal outlines a decentralized application (dApp) built on 0G Labs’ blockchain infrastructure to manage traditional NFTs and intelligent NFTs (iNFTs). Going straight to its main function this Asset dynamic engine enables users to: 
 
-STORE: Temporarily lock NFTs/iNFTs in a decentralized vault, preserving their utility over a given period of time. 
+Welcome to A.D.E — The Asset Dynamic Engine
 
-BURN: Permanently remove NFTs/iNFTs from circulation and trim down the collection to cause scarcity and increase want. 
+Powered by 0G Labs
 
-MERGE: Fuse two stored NFTs or iNFTs into a third asset, locking originals’ rights until the merged result is burned then we can return the rights and return the iNFT and NFT to thier original code.
+Manage your NFT and iNFT lifecycle with intelligent tools, AI-powered fusion, and decentralized storage. Built for the future of Web3 creators, collectors, and believers.
 
 
-Designed for EVM compatibility along with 0G Labs’ scalable data availability (DA) layer, 0G Storage, and AI-oracle system, this dApp offers a user-friendly interface with a robust smart contract backend, leveraging decentralized principles for transparency and autonomy.
+---
 
-Objectives
-User Empowerment: Provide an intuitive dApp for managing NFT/iNFT lifecycles.
+Your Dashboard
 
+Track and manage your NFT/iNFT assets in a single, intuitive interface.
 
-Cross-Asset Support: Handle static NFTs and iNFTs with tailored merging logic.
+Stored Assets: View assets you've locked in the secure 0G Vault.
 
+Merged Assets: See the outcome of your creative fusions, clearly labeled with origin history.
 
-Decentralized Control: Ensure all actions (store, burn, merge) are trustless and verifiable on-chain.
+Burned History: A transparent log of assets permanently removed from circulation.
 
-ØG ORACLE: Maximize 0G Labs’ AI, storage, and scalability for efficiency and innovation.
 
-A.D.E Architecture
 
-1. Frontend (User Interface)
-Tech: React.js, Web3.js (or ethers.js) for blockchain interaction.
+---
 
-Features:
-Dashboard: Displays user-owned NFTs or iNFTs stored, active or Fused
+Key Features
 
-Store Button: Triggers storage transaction with wallet approval (e.g., MetaMask).
+STORE
 
-Burn Button: Initiates burn with confirmation prompt.
+Temporarily lock NFTs and iNFTs in a decentralized vault.
+Preserve your assets’ utility, pause trading, or secure collectibles during volatile market periods.
 
-Merge Tool: Selects two stored assets, previews fused result (via AI simulation), and submits merge.
+Use Cases:
 
-Burn Merged: Option to burn merged assets and reclaim originals.
+Preserve rare assets during downturns
 
-NOTE: UX must have a Clean design with tool-tips explaining rights transfer and burn-reversal rules.
+Lock team/partner NFTs pre-launch
 
-2. Backend (Smart Contract)
-Tech: Solidity, deployed on Ethereum with 0G Labs’ DA layer for scalability.
+Hold iNFTs while refining AI behavior
 
-Core Functions:
 
-Storage: Locks assets in a vault.
+How it works:
 
-Burn: Deletes assets permanently.
+1. Select your NFT/iNFT.
 
-Merger: Fuses stored NFTs/iNFTs, mints a new asset, and manages rights.
 
-3. Off-Chain Integration (0G Labs’ Stack)
-0G Storage: Hosts static NFT metadata and encrypted iNFT AI metadata.
+2. Click "Store in Vault."
 
-AI-Oracles: Fuses metadata (NFT traits, iNFT AI models) and delivers new URIs.
 
-DA Layer: Ensures low-cost, verifiable logging of all actions.
+3. Confirm the transaction via your wallet (MetaMask or compatible).
 
-System Design. 
 
-1. Storage Feature
 
-Allow users to park NFTs/iNFTs securely, preserving them for later use or merging.
+> Note: Metadata is stored on 0G Storage. All actions are logged via the DA layer.
 
-Ø,G Role: Metadata persists on 0G Storage; DA layer logs for transparency.
 
--it can store a rare NFT during a bear market while preserving value.
 
--it serves as a lock feature for Teams and institutions coming into the market.
 
--Believers and Holder's can store thier NFT and iNFTs 
+---
 
-2. Burn Feature
-It enables permanent removal of NFTs/iNFTs from circulation.
+BURN
 
-Ø,G Role: AI suggests burn candidates (e.g., low activity) via analytics feed.
+Permanently remove assets from circulation.
+Trim collections, increase scarcity, and reset the mint authority of previously merged assets.
 
--Burn duplicate NFTs to boost collection value.
+Use Cases:
 
--constantly reduce supply to increase scarcity and value
+Reduce total supply for increased demand
 
--Burn iNFTs, NFTS and fused iNFTs to release mint Authourity. Merging requires stored assets; #3 mints only after rights lock.
-originals reclaimable only by burning #3.
+Remove unwanted or duplicated tokens
 
+Free original NFTs from a fused asset
 
 
+How it works:
 
-3. Merger Feature (NFTs and iNFTs)
-Fuse two stored NFTs or iNFTs into a third asset, New asset appears in dashboard and the originals 
-marked “Merged - Locked. ”locking up the originals until the merged result is burned.
+1. Select the asset to burn.
 
-Ø,G Role: AI previews fusion; oracles process iNFT merges; 0G Storage hosts new metadata.
 
-An example of this interaction is listed below. 
--Merge two NFTs: Punk + Ape = “Punked Ape” NFT.
+2. Review AI-suggested candidates based on activity and traits.
 
--Merge two iNFTs: Trader + Optimizer = “Profit Gamer” iNFT.
 
--Merge NFT + iNFT: Sword NFT + Combat iNFT = “Swordmaster Bot” iNFT.
+3. Confirm irreversible burn.
 
--Burn NFT: Swordmaster Bot” iNFT.
-Sword NFT Combat iNFT 
 
-Thus creating a new variant FUSED iNFTs 
-We can Fuse existing Ai metadata to Static NFTs to create this hybrid NFT that has the traits of a traditional NFT by being a jpeg and can interact onchain. 
 
+> Warning: Burn is permanent unless reclaiming original rights from a fused asset.
 
 
-dApp Benefit 
 
-User-Friendly: Frontend simplifies complex blockchain actions.
 
-Versatile Merging: Handles NFT trait combos and iNFT AI fusion.
+---
 
-Decentralized: No central point of failure; all ops on-chain or via 0G’s stack.
+MERGE
 
-0G Boost: AI previews, scalable DA, and secure storage elevate the experience.
+Fuse two NFTs/iNFTs into a powerful, unique asset.
+Blend visual traits or AI behavior into a new collectible or intelligent agent.
 
-Challenges
+Supported Merge Types:
 
-Gas Fees: Merging and burn-reversal could get costly; 0G’s DA layer helps but doesn’t eliminate.
+NFT + NFT → Hybrid NFT
+e.g., Punk + Ape = “Punked Ape”
 
-Fusion Rules: NFT trait blending needs fine-tuning (e.g., rarity weights).
+iNFT + iNFT → Enhanced AI iNFT
+e.g., Trader + Optimizer = “Profit Gamer”
 
-Learning Curve: Burn-to-reclaim might confuse newbies—UI must educate.
+NFT + iNFT → Interactive Hybrid
+e.g., Sword + Combat Bot = “Swordmaster Bot”
 
-Ø,G Labs?
 
-Scalability: DA layer keeps gas low for mass adoption.
+How it works:
 
-AI Power: Drives smart NFT/iNFT fusion and burn suggestions.
+1. Select two stored assets.
 
-Storage: ØG Storage secures metadata and locked assets.
 
-Development Roadmap
+2. Preview the result using 0G AI-Oracles.
 
-TEST
 
-Smart Contract :test storage, burn, merge cycles.
+3. Confirm to mint the fusion and lock the originals.
 
-MORE UPDATES WILL BE MADE AVAILABLE AS WE BUILD. WE WOULD LOVE TO GE5 STARTED WITH TESTS ON OG LABS 
- 
+
+
+Burn-to-Reclaim: If you ever want the originals back, burn the fused asset. The originals will be restored with their prior metadata and utility.
+
+
+---
+
+Under the Hood: A.D.E Architecture
+
+Frontend
+
+Built with: React.js + Web3.js (or ethers.js)
+
+UX Design: Clean interface, wallet-integrated, with educational tooltips for each action.
+
+
+Smart Contracts
+
+Language: Solidity
+
+Chain: EVM-compatible with ØG Labs’ DA Layer
+
+Functions:
+
+storeAsset()
+
+burnAsset()
+
+mergeAssets()
+
+reclaimOriginals()
+
+
+
+Off-Chain AI Stack
+
+0G Storage: Secure metadata & encrypted AI behavior for iNFTs.
+
+ØG Oracle: AI engine that blends NFT traits and iNFT AI models to create hybrid metadata.
+
+DA Layer: Logs all user actions verifiably for transparency and low cost.
+
+
+
+---
+
+The Power of ØG
+
+Scalability: DA layer reduces gas consumption for high-volume dApp usage.
+
+AI Fusion: Oracle suggests fusions, previews results, and validates interactions.
+
+Secure Storage: Your NFTs and iNFTs metadata stay safe and decentralized on ØG Storage.
+
+
+
+---
+
+Get Started
+
+1. Connect your wallet.
+
+
+2. Import your NFTs and iNFTs.
+
+
+3. Use the A.D.E Engine to Store, Burn, Merge, or Reclaim.
+
+
+
+Your NFT experience just evolved.
+
+Welcome to the intelligent layer of NFT management. Welcome to A.D.E.
+
+
