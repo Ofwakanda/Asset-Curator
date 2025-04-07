@@ -124,40 +124,7 @@ Burn-to-Reclaim: If you ever want the originals back, burn the fused asset. The 
 
 ---
 
-Under the Hood: A.D.E Architecture
-
-Frontend
-
-Built with: React.js + Web3.js (or ethers.js)
-
-UX Design: Clean interface, wallet-integrated, with educational tooltips for each action.
-
-
-Smart Contracts
-
-Language: Solidity
-
-Chain: EVM-compatible with ØG Labs’ DA Layer
-
-Functions:
-
-storeAsset()
-
-burnAsset()
-
-mergeAssets()
-
-reclaimOriginals()
-
-
-
-Off-Chain AI Stack
-
-0G Storage: Secure metadata & encrypted AI behavior for iNFTs.
-
-ØG Oracle: AI engine that blends NFT traits and iNFT AI models to create hybrid metadata.
-
-DA Layer: Logs all user actions verifiably for transparency and low cost.
+transparency and low cost.
 
 
 
