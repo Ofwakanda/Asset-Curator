@@ -22,14 +22,7 @@ STORE
 
 Temporarily lock NFTs and iNFTs in a decentralized vault.
 Preserve your assets’ utility, pause trading, or secure collectibles during volatile market periods.
-
-Use Cases:
-
-Preserve rare assets during downturns
-
-Lock team/partner NFTs pre-launch
-
-Hold iNFTs while refining AI behavior
+You can as well preserve rare assets during downturns, Lock team/partner NFTs pre-launch or Hold iNFTs while refining AI behavior
 
 
 How it works:
@@ -46,16 +39,7 @@ How it works:
 BURN
 
 Permanently remove assets from circulation.
-Trim collections, increase scarcity, and reset the mint authority of previously merged assets.
-
-Use Cases:
-
-Reduce total supply for increased demand
-
-Remove unwanted or duplicated tokens
-
-Free original NFTs from a fused asset
-
+Trim collections, increase scarcity, and reset the mint authority of previously merged assets, Reduce total supply for increased demandremove unwanted or duplicated tokens, you can reclaim original NFTs from a fused asset. 
 
 How it works:
 
@@ -69,7 +53,7 @@ How it works:
 
 
 
-> Warning: Burn is permanent unless reclaiming original rights from a fused asset.
+NOTE: Warning: Burn is permanent unless reclaiming original rights from a fused asset.
 
 
 
@@ -80,6 +64,7 @@ Fuse two NFTs/iNFTs into a powerful, unique asset.
 Blend visual traits or AI behavior into a new collectible or intelligent agent.
 
 Supported Merge Types:
+A list of acceptable mergers that can be done. 
 
  Punk + Ape = “Punked Ape”
 
