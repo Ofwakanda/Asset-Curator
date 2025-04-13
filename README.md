@@ -1,14 +1,11 @@
 
 Welcome to A.D.E — The Asset Dynamic Engine
 
-Powered by 0G Labs
+Powered by You! 
 
 Manage your NFT and iNFT lifecycle with intelligent tools, AI-powered fusion, and decentralized storage. Built for the future of Web3 creators, collectors, and believers.
 
-
----
-
-Your Dashboard
+Dashboard
 
 Track and manage your NFT/iNFT assets in a single, intuitive interface.
 
@@ -18,9 +15,6 @@ Merged Assets: See the outcome of your creative fusions, clearly labeled with or
 
 Burned History: A transparent log of assets permanently removed from circulation.
 
-
-
----
 
 Key Features
 
@@ -45,17 +39,9 @@ How it works:
 
 2. Click "Store in Vault."
 
-
 3. Confirm the transaction via your wallet (MetaMask or compatible).
 
 
-
-> Note: Metadata is stored on 0G Storage. All actions are logged via the DA layer.
-
-
-
-
----
 
 BURN
 
@@ -88,8 +74,6 @@ How it works:
 
 
 
----
-
 MERGE
 
 Fuse two NFTs/iNFTs into a powerful, unique asset.
@@ -97,50 +81,30 @@ Blend visual traits or AI behavior into a new collectible or intelligent agent.
 
 Supported Merge Types:
 
-NFT + NFT → Hybrid NFT
-e.g., Punk + Ape = “Punked Ape”
+ Punk + Ape = “Punked Ape”
 
 iNFT + iNFT → Enhanced AI iNFT
 e.g., Trader + Optimizer = “Profit Gamer”
 
 NFT + iNFT → Interactive Hybrid
-e.g., Sword + Combat Bot = “Swordmaster Bot”
+DeGod + Combat Bot = "DeGod Comabt Character”
 
 
 How it works:
 
 1. Select two stored assets.
 
-
-2. Preview the result using 0G AI-Oracles.
-
-
-3. Confirm to mint the fusion and lock the originals.
+2. Confirm to mint the fusion and lock the originals.
 
 
 
-Burn-to-Reclaim: If you ever want the originals back, burn the fused asset. The originals will be restored with their prior metadata and utility.
+Burn-to-Reclaim: If you ever want the originals back, burn the fused asset. The originals will be restored with their prior metadata. 
 
 
----
-
-transparency and low cost.
-
-
-
----
-
-The Power of ØG
-
-Scalability: DA layer reduces gas consumption for high-volume dApp usage.
-
-AI Fusion: Oracle suggests fusions, previews results, and validates interactions.
 
 Secure Storage: Your NFTs and iNFTs metadata stay safe and decentralized on ØG Storage.
 
 
-
----
 
 Get Started
 
