@@ -198,7 +198,7 @@ Inspired (60–79) – Clearly derivative but moderately original.
 Duplicate (0–59) – Copy or minimally altered from an existing asset.
 
 
-Governance & DAO Vision
+8. Governance & DAO Vision
 The ADEX ecosystem will transition toward decentralized governance by enabling the community to actively participate in maintaining originality, shaping AI policy, and guiding platform evolution.
 
 Key Components
