@@ -5,7 +5,7 @@ Version: 2.0
 
 Date: May 6th 2025
 
-Authors: OFWAKANDA Team
+Author: Asset Team
 
 
 ADEX (Asset Dynamic Engine X) is a decentralized application framework built on top of 0G Labs' blockchain infrastructure, designed to manage the full lifecycle of traditional NFTs and intelligent NFTs (iNFTs). 
@@ -23,6 +23,7 @@ Securely lock NFTs and iNFTs in decentralized vaults managed by ADEX’s smart c
 
 
 Purpose:
+
 Asset Preservation:
 Temporarily remove assets from circulation during market downturns to retain value and reduce volatility.
 
@@ -38,6 +39,7 @@ Provides a secure custody layer for DAOs, brands, or collectors looking to safeg
 Permanently remove NFTs and iNFTs from circulation via an irreversible on-chain burn mechanism.
 
 Purpose:
+
 Scarcity & Value Boost:
 Reduce overall supply to elevate rarity and desirability across collections.
 
@@ -53,6 +55,7 @@ MERGE FUNCTION:
 Fuse two stored assets NFTs, iNFTs, or one of each into a new, AI-enhanced hybrid asset.
 
 Purpose:
+
 Creative & AI-Assisted Fusion:
 Combine visual traits, metadata, and behavioral models to produce new, intelligent or aesthetic NFTs.
 
@@ -66,6 +69,7 @@ Originality is scored and verified by the Derivative Control System.
 
 
 NOTE:
+
 The ADEX system is natively integrated with 0G Labs' decentralized infrastructure, enabling a secure, efficient, and scalable backbone for NFT and iNFT lifecycle management.
 
 0G Storage for secure metadata
@@ -77,9 +81,11 @@ AI Oracle for fusion previews and originality checks.
 
 
 4. Verified Founder Remint System
+   
 To allow original creators to remint existing collections or individual collectibles without altering value, embedding ADEX authenticity, and joining the ADEX database.
 
 Purpose:
+
 On-chain Brand Registry:
 Attach the ADEX brand as a seal of authenticity and originality to verified reminted collections.
 
@@ -90,6 +96,7 @@ Integrate with ADEX Engine:
 Reconstructed collections gain access to the full ADE stack: store, burn, merge, originality scoring, and AI metadata augmentation.
 
 How it works. 
+
 1. Creator verifies contract ownership (via wallet signature)
 
 2. Submits collection for originality scanning
@@ -110,6 +117,7 @@ Flagged as non-original or low-quality derivative
  Characters
 
 Benefits for Founders:
+
 Rebuild & Evolve:
 Update metadata, visuals, and on-chain capabilities for modern standards without breaking the legacy ecosystem.
 
@@ -143,6 +151,7 @@ Determines branding level and eligibility for platform features.
 
 
 Benefits of Onchain Branding:
+
 Trusted Marketplace Interoperability
 Branded NFTs/iNFTs are more likely to be accepted or highlighted on third-party marketplaces due to verifiable authenticity.
 
@@ -166,14 +175,15 @@ These minted profiles can be merged with our AI assistants e.g Chat agents, Trad
 Fusion Example. 
 
 You (avatar) + Strategy AI = "Tactical Mind iNFT"
-Use Case
+
 Real-time Tactical Decisioning: Adaptively strategizes in competitive blockchain games.
 
 Auto-Pilot Mode: Plays in your style when you're offline, winning passive rewards.
 
 
 You + Synth Designer = "Augmented Artist iNFT"
-Purpose 
+
+
 Autonomous Art Generation: Generates original digital artwork, music, or animation in your style.
 
 On-Chain Commissions: Users submit requests; your iNFT delivers creative outputs autonomously and receives payments.
@@ -182,6 +192,7 @@ Etc.
 
 
 7. Derivative Control System (DCS)
+   
 To assess, label, and control the minting and acceptance of NFTs and iNFTs within the ADEX Engine to preserve originality, prevent copy-minting, and manage collection integrity.
 
 Inputs for Evaluation:
@@ -213,6 +224,7 @@ Duplicate (0–59) – Copy or minimally altered from an existing asset.
 
 
 8. Governance & DAO Vision
+   
 The ADEX ecosystem will transition toward decentralized governance by enabling the community to actively participate in maintaining originality, shaping AI policy, and guiding platform evolution.
 
 Key Components
@@ -226,12 +238,16 @@ Metadata Access: Includes asset score, failure criteria, contract ancestry, and 
 Educational Use: Helps creators understand originality standards.
 
 ii. Community-Based Originality Challenge System
+
 Dispute Mechanism: Creators or users can challenge originality scores via DAO proposals.
 
-Evidence Submission: Includes creative drafts, timelines, or source files.
+Evidence Submission:
+
+Includes creative drafts, timelines, or source files.
 Staking Requirement: Both challenger and challenged stake tokens for anti-spam.
 
 Outcome:
+
 If challenge succeeds: score is updated, asset reclassified.
 
 If challenge fails: staked tokens are distributed to voters or burned.
