@@ -1,20 +1,25 @@
 
 Decentralized Engine for NFT Management, Verification, and AI Fusion
 
-Version: 2.0
+Version: 2.0 
+
 Date: May 6th 2025
+
 Authors: ADEX Team
 
 
 ADEX (Asset Dynamic Engine X) is a decentralized application framework built on top of 0G Labs' blockchain infrastructure, designed to manage the full lifecycle of traditional NFTs and intelligent NFTs (iNFTs). ADEX introduces a core mechanism of Store, Burn, and Merge to allow secure management, scarcity-driven valuation, and advanced fusion of digital assets. With an emphasis on verified reminting, AI-powered originality scoring, and branded on-chain metadata, ADEX ensures asset legitimacy, interoperability, and scalable utility across the Web3 ecosystem.
 
+
 Vision
 To create a unified, trustless, and intelligent infrastructure that facilitates the evolution of static and dynamic NFTs into verified, functional, and interoperable on-chain assets for personal identity, gamified systems, collectibles, and AI-assisted interactions.
+
 
 Core Modules
 
 1. STORE FUNCTION
 Securely lock NFTs and iNFTs in decentralized vaults managed by ADEX’s smart contract suite.
+
 
 Purpose:
 Asset Preservation:
@@ -25,6 +30,8 @@ Store NFTs/iNFTs before merging to enable rights locking—ensuring originals ca
 
 Institutional & Long-Term Holding:
 Provides a secure custody layer for DAOs, brands, or collectors looking to safeguard high-value assets with verifiable on-chain proofs.
+
+
 
 2. BURN FUNCTION
 Permanently remove NFTs and iNFTs from circulation via an irreversible on-chain burn mechanism.
@@ -39,6 +46,8 @@ Eliminate duplicates, abandoned, or low-utility assets to maintain ecosystem int
 Rights Reclamation:
 Burn fused (merged) assets to unlock and restore rights to the original NFTs/iNFTs stored in the vault.
 
+
+
 MERGE FUNCTION:
 Fuse two stored assets NFTs, iNFTs, or one of each into a new, AI-enhanced hybrid asset.
 
@@ -52,6 +61,7 @@ Enable the creation of iNFTs with personality layers, skill sets, or strategy mo
 Rights Lock & Verification:
 Original assets are locked in the vault post-merge. Burn of the fused asset is required to reclaim and restore the originals.
 Originality is scored and verified by the Derivative Control System.
+
 
 
 NOTE:
@@ -107,6 +117,7 @@ Option to convert static assets into iNFTs or add dynamic AI layers via 0G Oracl
 
 Derivative Control:
 Prevent unauthorized forks and fakes by establishing on-chain branded authority tied to founder wallet.
+
 
 
 5. Onchain Branding System
@@ -168,6 +179,7 @@ On-Chain Commissions: Users submit requests; your iNFT delivers creative outputs
 Etc. 
 
 
+
 7. Derivative Control System (DCS)
 To assess, label, and control the minting and acceptance of NFTs and iNFTs within the ADEX Engine to preserve originality, prevent copy-minting, and manage collection integrity.
 
@@ -196,6 +208,7 @@ Original (80–100) – Unique in form and origin.
 Inspired (60–79) – Clearly derivative but moderately original.
 
 Duplicate (0–59) – Copy or minimally altered from an existing asset.
+
 
 
 8. Governance & DAO Vision
