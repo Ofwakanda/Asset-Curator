@@ -268,11 +268,13 @@ Contact Information.
 
 Twitter: @Assetcurator
 
+
 Email: ofwakandastudio@ptct.net
 
 TEAM
 Lead dev. 
 Twitter: @_ofwakanda
+
 
 Email: Wakandajosephh@gmail.com
 
