@@ -166,64 +166,7 @@ Protects collectors from derivative fakes and unauthorized mint copies.
 
 
 
-6. Asset Intelligence [Self-Minting & Avatar Creation]
-
-Users can mint themselves via: Webcam photo + AI body modeling and It’s permanently linked to the wallet via On-chain linked wallet metadata. 
-
-These minted profiles can be merged with our AI assistants e.g Chat agents, Trader, Storyteller, Defender, assistant, etc. Let your Avatar work for you!
-
-Fusion Example. 
-
-You (avatar) + Strategy AI = "Tactical Mind iNFT"
-
-Real-time Tactical Decisioning: Adaptively strategizes in competitive blockchain games.
-
-Auto-Pilot Mode: Plays in your style when you're offline, winning passive rewards.
-
-
-You + Synth Designer = "Augmented Artist iNFT"
-
-
-Autonomous Art Generation: Generates original digital artwork, music, or animation in your style.
-
-On-Chain Commissions: Users submit requests; your iNFT delivers creative outputs autonomously and receives payments.
-Etc. 
-
-
-
-7. Derivative Control System (DCS)
-   
-To assess, label, and control the minting and acceptance of NFTs and iNFTs within the ADEX Engine to preserve originality, prevent copy-minting, and manage collection integrity.
-
-Inputs for Evaluation:
-
-Visual Similarity
-
-Metadata Overlap
-
-Contract Ancestry
-
-Lore
-
-Utility similarity
-
-Outputs After Evaluation. 
-
-Score Range:
-
-0–100 scale of originality.
-
-Label:
-
-Original (80–100) – Unique in form and origin.
-
-Inspired (60–79) – Clearly derivative but moderately original.
-
-Duplicate (0–59) – Copy or minimally altered from an existing asset.
-
-
-
-8. Governance & DAO Vision
+6. Governance & DAO Vision
    
 The ADEX ecosystem will transition toward decentralized governance by enabling the community to actively participate in maintaining originality, shaping AI policy, and guiding platform evolution.
 
