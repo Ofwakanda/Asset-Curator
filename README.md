@@ -8,11 +8,12 @@ Date: May 6th 2025
 Authors: ADEX Team
 
 
-ADEX (Asset Dynamic Engine X) is a decentralized application framework built on top of 0G Labs' blockchain infrastructure, designed to manage the full lifecycle of traditional NFTs and intelligent NFTs (iNFTs). ADEX introduces a core mechanism of Store, Burn, and Merge to allow secure management, scarcity-driven valuation, and advanced fusion of digital assets. With an emphasis on verified reminting, AI-powered originality scoring, and branded on-chain metadata, ADEX ensures asset legitimacy, interoperability, and scalable utility across the Web3 ecosystem.
+ADEX (Asset Dynamic Engine X) is a decentralized application framework built on top of 0G Labs' blockchain infrastructure, designed to manage the full lifecycle of traditional NFTs and intelligent NFTs (iNFTs). 
+
+ADEX introduces a core mechanism of Store, Burn, and Merge to allow secure management, scarcity-driven valuation, and advanced fusion of digital assets. With an emphasis on verified reminting, AI-powered originality scoring, and branded on-chain metadata, ADEX ensures asset legitimacy, interoperability, and scalable utility across the Web3 ecosystem.
 
 
-Vision
-To create a unified, trustless, and intelligent infrastructure that facilitates the evolution of static and dynamic NFTs into verified, functional, and interoperable on-chain assets for personal identity, gamified systems, collectibles, and AI-assisted interactions.
+Our Vision is creating a unified, trustless, and intelligent infrastructure that facilitates the evolution of static and dynamic NFTs into verified, functional, and interoperable on-chain assets for personal identity, gamified systems, collectibles, and AI-assisted interactions.
 
 
 Core Modules
