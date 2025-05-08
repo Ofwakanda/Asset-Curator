@@ -1,9 +1,9 @@
-## Asset Curator
+# Asset Curator
 
-## A Decentralized Engine for NFT Management, Verification, and AI Fusion
+# A Decentralized Engine for NFT Management, Verification, and AI Fusion
 
-Version: 3.0
-Date: May 8th, 2025
+## Version: 3.0
+## Date: May 8th, 2025
 
 
 
@@ -17,7 +17,7 @@ ADEX introduces a core mechanism of Store, Burn, and Merge to allow secure manag
 Our Vision is creating a unified, trustless, and intelligent infrastructure that facilitates the evolution of static and dynamic NFTs into verified, functional, and interoperable on-chain assets for personal identity, gamified systems, collectibles, and AI-assisted interactions.
 
 
-Core Modules
+## Core Modules
 
 1. STORE FUNCTION
 Securely lock NFTs and iNFTs in decentralized vaults managed by ADEX’s smart contract suite.
