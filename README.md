@@ -2,8 +2,8 @@
 
 ## A Decentralized Engine for NFT Management, Verification, and AI Fusion
 
-##Version: 3.0
-##Date: May 8th, 2025
+Version: 3.0
+Date: May 8th, 2025
 
 
 
