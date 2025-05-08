@@ -40,7 +40,7 @@ AI-Avatar Creation
  
 The DCS function is a fundamental component of the Asset Curator, enabling secure custodianship of NFTs and iNFTs within a decentralized storage system. This mechanism provides both a protective layer for high-value or in-progress assets and a functional gate for downstream operations such as merging, burning, or originality verification, securely lock NFTs and iNFTs in decentralized vaults managed by AC smart contract suite.
 
-# When an asset is submitted to the store() function:
+# When an asset is submitted to the storage system:
 
 1. The asset is assigned a unique vault ID and indexed in the protocol’s on-chain registry.
 
@@ -53,19 +53,21 @@ The DCS function is a fundamental component of the Asset Curator, enabling secur
 
 4. The asset is flagged as “vaulted,” disabling marketplace transfers, fusions, or burns unless released or authorized.
 
+This system ensures deterministic control over asset states while preserving provenance and usage rights
 
 
 
 
 
-Asset Preservation:
-Temporarily remove assets from circulation during market downturns to retain value and reduce volatility.
 
-Rights Management:
-Store NFTs/iNFTs before merging to enable rights locking—ensuring originals cannot be manipulated while derivatives exist.
 
-Institutional & Long-Term Holding:
-Provides a secure custody layer for DAOs, brands, or collectors looking to safeguard high-value assets with verifiable on-chain proofs.
+
+
+
+
+
+
+
 
 
 
