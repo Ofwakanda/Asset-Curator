@@ -55,7 +55,11 @@ The DCS function is a fundamental component of the Asset Curator, enabling secur
 
 This system ensures deterministic control over asset states while preserving provenance and usage rights
 
+Collectors can lock prized assets to prevent accidental sale or exposure. A specified unlock date or manual withdrawal ensures long-term security.
 
+Before initiating a merge() operation, all input NFTs must be stored. This guarantees that source assets are immutable throughout the fusion validation process.
+
+DAOs, institutions, or creators may store NFTs as a form of decentralized “vault insurance,” proving asset control without relying on centralized storage platforms.
 
 
 
