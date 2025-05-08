@@ -53,7 +53,7 @@ The DCS function is a fundamental component of the Asset Curator, enabling secur
 
 4. The asset is flagged as “vaulted,” disabling marketplace transfers, fusions, or burns unless released or authorized.
 
-## Note. 
+
 This system ensures deterministic control over asset states while preserving provenance and usage rights
 Collectors can also lock prized assets to prevent accidental sale or exposure. A specified unlock date or manual withdrawal ensures long-term security.
 
@@ -74,7 +74,7 @@ The burn mechanism is designed to enforce controlled destruction of NFTs and iNF
 
 3. A cryptographic fingerprint of the burned token’s metadata is retained for auditability and proof-of-burn purposes.
 
-## Note. 
+
 Project founders or DAO communities may burn unclaimed or underperforming assets to reduce total supply and enhance the rarity of remaining collectibles.
 
 Burns can also be used to remove deprecated or low-quality NFTs from circulation, especially when paired with community governance through originality scoring or flagging.
@@ -103,37 +103,28 @@ The Fusion Engine enables the compositional fusion of two NFTs, iNFTs, or a comb
 4. A new iNFT is minted containing fused metadata, traits, and optionally an AI personality layer (e.g. Tactical AI, Creative Synth, etc.).
 
 
-
-
-Creative & AI-Assisted Fusion:
 Combine visual traits, metadata, and behavioral models to produce new, intelligent or aesthetic NFTs.
 
-iNFT Generation:
 Enable the creation of iNFTs with personality layers, skill sets, or strategy modules (e.g., Tactical Mind iNFT, Augmented Artist iNFT).
 
-Rights Lock & Verification:
 Original assets are locked in the vault post-merge. Burn of the fused asset is required to reclaim and restore the originals.
 Originality is scored and verified by the Derivative Control System.
 
 
 
-NOTE:
 
-The ADEX system is natively integrated with 0G Labs' decentralized infrastructure, enabling a secure, efficient, and scalable backbone for NFT and iNFT lifecycle management.
+# Derivative Control System 
 
-0G Storage for secure metadata
+The Derivative Control System (DCS) evaluates and governs the originality, authenticity, and derivative status of NFTs and iNFTs within the ecosystem. It ensures that only unique, innovative, or sufficiently transformed digital assets are allowed to participate in advanced features like fusion, verified reminting, and branding.
 
-DA Layer for scalable logs
 
-AI Oracle for fusion previews and originality checks. 
+
 
 
 
 4. Verified Founder Remint System
    
-To allow original creators to remint existing collections or individual collectibles without altering value, embedding ADEX authenticity, and joining the ADEX database.
-
-Purpose:
+To allow original creators to remint existing collections or individual collectibles without altering value, embedding Asset Curator authenticity, and joining the ADEX database.
 
 On-chain Brand Registry:
 Attach the ADEX brand as a seal of authenticity and originality to verified reminted collections.
