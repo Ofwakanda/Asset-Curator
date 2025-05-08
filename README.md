@@ -1,11 +1,12 @@
+## Asset Curator
 
-Decentralized Engine for NFT Management, Verification, and AI Fusion
+## A Decentralized Engine for NFT Management, Verification, and AI Fusion
 
-Version: 2.0 
+Version: 3.0
+Date: May 8th, 2025
+Authors: Wakanda. 
 
-Date: May 6th 2025
 
-Author: Wakanda [Ofwakanda Team]
 
 
 ADEX (Asset Dynamic Engine X) is a decentralized application framework built on top of 0G Labs' blockchain infrastructure, designed to manage the full lifecycle of traditional NFTs and intelligent NFTs (iNFTs). 
