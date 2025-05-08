@@ -5,16 +5,35 @@
 ## Version: 3.0
 ## Date: May 8th, 2025
 
+## Introduction
+
+As the NFT ecosystem continues to evolve, there is a growing demand for more intelligent, interoperable, and verifiable digital assets. While traditional NFTs offer provenance and ownership, they fall short when it comes to dynamic functionality, AI integration, and robust lifecycle control. This limitation becomes more prominent as the industry transitions toward utility-based NFTs, AI agents, and composable on-chain identity systems.
+
+ Asset Curator addresses these gaps by introducing a decentralized framework for managing static NFTs and intelligent NFTs (iNFTs) through an integrated suite of mechanisms: Store, Burn, Merge, and Verify. These components are designed to ensure secure custody, enforce digital scarcity, enable creative recombination, and protect originality through on-chain validation and scoring.
+
+The protocol leverages 0G Labs’ decentralized infrastructure to support storage, logging, and AI-based verification, providing the necessary backbone for scalable and trustless asset evolution.
+
+## System Overview
+
+Asset Curator introduces the concept of NFT Lifecycle Control, in which NFTs and iNFTs can transition between stored, burned, merged, and verified states. Each state transition is mediated by a suite of smart contracts and AI-assisted oracle modules that provide verifiability, auditability, and data integrity across operations.
+
+## Key Components:
+
+Decentralized Storage System
+
+On-Chain Burn Mechanism 
+
+Fusion Engine
+
+Derivative Control System 
+
+Remint System for Legacy Collections
+
+Onchain Branding 
+
+AI-Avatar Creation
 
 
-
-
-ADEX (Asset Dynamic Engine X) is a decentralized application framework built on top of 0G Labs' blockchain infrastructure, designed to manage the full lifecycle of traditional NFTs and intelligent NFTs (iNFTs). 
-
-ADEX introduces a core mechanism of Store, Burn, and Merge to allow secure management, scarcity-driven valuation, and advanced fusion of digital assets. With an emphasis on verified reminting, AI-powered originality scoring, and branded on-chain metadata, ADEX ensures asset legitimacy, interoperability, and scalable utility across the Web3 ecosystem.
-
-
-Our Vision is creating a unified, trustless, and intelligent infrastructure that facilitates the evolution of static and dynamic NFTs into verified, functional, and interoperable on-chain assets for personal identity, gamified systems, collectibles, and AI-assisted interactions.
 
 
 ## Core Modules
