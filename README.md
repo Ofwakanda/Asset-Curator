@@ -53,15 +53,30 @@ The DCS function is a fundamental component of the Asset Curator, enabling secur
 
 4. The asset is flagged as “vaulted,” disabling marketplace transfers, fusions, or burns unless released or authorized.
 
+# Note. 
 This system ensures deterministic control over asset states while preserving provenance and usage rights
+Collectors can also lock prized assets to prevent accidental sale or exposure. A specified unlock date or manual withdrawal ensures long-term security.
 
-Collectors can lock prized assets to prevent accidental sale or exposure. A specified unlock date or manual withdrawal ensures long-term security.
-
-Before initiating a merge() operation, all input NFTs must be stored. This guarantees that source assets are immutable throughout the fusion validation process.
+Before initiating a fusion operation, all input NFTs must be stored. This guarantees that source assets are immutable throughout the fusion validation process.
 
 DAOs, institutions, or creators may store NFTs as a form of decentralized “vault insurance,” proving asset control without relying on centralized storage platforms.
 
 
+# On-Chain Burn Mechanism 
+
+The burn mechanism is designed to enforce controlled destruction of NFTs and iNFTs. Unlike typical burn operations that simply remove tokens from circulation, the Asset Curator burn mechanism is embedded with traceability, rights reconciliation, and lifecycle logic for complex asset ecosystems, including AI-enhanced digital identities. Basically it ensures the permanently removal of NFTs and iNFTs from circulation via an irreversible on-chain burn mechanism.
+
+# When an asset is submitted to the burn mechanism:
+
+1. The token is permanently removed from the NFT contract, triggering a total supply reduction.
+
+2. The protocol checks whether the burned token is a fused asset. If so, it initiates a restoration flow for original components stored in the vault.
+
+3. A cryptographic fingerprint of the burned token’s metadata is retained for auditability and proof-of-burn purposes.
+
+# Note. 
+Project founders or DAO communities may burn unclaimed or underperforming assets to reduce total supply and enhance the rarity of remaining collectibles.
+Burns can also be used to remove deprecated or low-quality NFTs from circulation, especially when paired with community governance through originality scoring or flagging.
 
 
 
@@ -71,12 +86,6 @@ DAOs, institutions, or creators may store NFTs as a form of decentralized “vau
 
 
 
-
-
-
-
-2. BURN FUNCTION
-Permanently remove NFTs and iNFTs from circulation via an irreversible on-chain burn mechanism.
 
 Purpose:
 
