@@ -1,4 +1,3 @@
-# Asset Curator
 
 # A Decentralized Engine for NFT Management, Verification, and AI Fusion
 
