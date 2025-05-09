@@ -25,14 +25,11 @@ On-Chain Burn Mechanism
 
 Fusion Engine
 
-Derivative Control System 
+DAO GOVERNANCE 
 
 Remint System for Legacy Collections
 
-Onchain Branding 
-
-AI-Avatar Creation
-
+Self-Minting & AI Avatar Creation
 
 
 
@@ -60,6 +57,7 @@ Collectors can also lock prized assets to prevent accidental sale or exposure. A
 Before initiating a fusion operation, all input NFTs must be stored. This guarantees that source assets are immutable throughout the fusion validation process.
 
 DAOs, institutions, or creators may store NFTs as a form of decentralized “vault insurance,” proving asset control without relying on centralized storage platforms.
+
 
 
 ## On-Chain Burn Mechanism 
@@ -113,114 +111,26 @@ Originality is scored and verified by the Derivative Control System.
 
 
 
-# Derivative Control System 
+## DAO Governance 
 
-The Derivative Control System (DCS) evaluates and governs the originality, authenticity, and derivative status of NFTs and iNFTs within the ecosystem. It ensures that only unique, innovative, or sufficiently transformed digital assets are allowed to participate in advanced features like fusion, verified reminting, and branding.
+The DAO governs the originality, authenticity, and derivative status of NFTs and iNFTs within the ecosystem. It ensures that only unique, innovative, or sufficiently transformed digital assets are allowed to participate in advanced features like fusion, verified reminting, and branding. At the heart of this vision is a DAO that empowers creators, collectors, and builders to actively participate in shaping the platform’s originality standards, AI policies, and lifecycle management rules for NFTs and iNFTs.
 
+## Core Principles
 
-
-
-
-
-4. Verified Founder Remint System
-   
-To allow original creators to remint existing collections or individual collectibles without altering value, embedding Asset Curator authenticity, and joining the ADEX database.
-
-On-chain Brand Registry:
-Attach the ADEX brand as a seal of authenticity and originality to verified reminted collections.
-
-Preserve Legacy Value:
-Remint without disrupting ownership history or price charts by retaining original token IDs, contract ancestry, and provenance data.
-
-Integrate with ADEX Engine:
-Reconstructed collections gain access to the full ADE stack: store, burn, merge, originality scoring, and AI metadata augmentation.
-
-How it works. 
-
-1. Creator verifies contract ownership (via wallet signature)
-
-2. Submits collection for originality scanning
-
-3. If passed:
-
-Marked as ADEX-Branded
-
-Mint-Type: Rebuild
-
-Included in searchable registry
-
-4. If failed:
-
-Blocked from reminting
-
-Flagged as non-original or low-quality derivative
- Characters
-
-Benefits for Founders:
-
-Rebuild & Evolve:
-Update metadata, visuals, and on-chain capabilities for modern standards without breaking the legacy ecosystem.
-
-AI Enhancements:
-Option to convert static assets into iNFTs or add dynamic AI layers via 0G Oracle AI tools.
-
-Derivative Control:
-Prevent unauthorized forks and fakes by establishing on-chain branded authority tied to founder wallet.
+1. All originality scores, mint permissions, and derivative approvals will ultimately be governed by DAO participants rather than a centralized entity.
 
 
-
-5. Onchain Branding System
-Every NFT or iNFT minted via ADEX is authenticated with cryptographic, verifiable originality markers.
-
-Core Branding Elements:
-
-i. Provenance Hash
-Cryptographically ties the asset to its origin.
-
-Combines metadata, mint wallet, and timestamp into an immutable hash.
-
-ii. ADEX Contract Signature
-ADEX’s minting contract signs each NFT/iNFT at the point of creation.
-
-Verifies authenticity and protocol compliance.
-
-iii. Originality Score (0–100)
-Derived from the Derivative Control System.
-
-Determines branding level and eligibility for platform features.
+2. Users gain the ability to challenge or defend originality scores, fusions, or flagged assets through on-chain dispute mechanisms.
 
 
-Benefits of Onchain Branding:
-
-Trusted Marketplace Interoperability
-Branded NFTs/iNFTs are more likely to be accepted or highlighted on third-party marketplaces due to verifiable authenticity.
-
-Fusion Eligibility
-Only ADEX-branded assets can participate in merge functions and iNFT hybrid creation.
-
-Avatar Protocol Whitelisting
-Enables branded assets to be integrated into avatar systems (on-chain identity, social metaverse, AI companions).
-
-Anti-Fraud Layer
-Protects collectors from derivative fakes and unauthorized mint copies.
+3. The DAO votes on key upgrades to AI models, originality algorithms, fusion mechanics, and eligibility criteria for platform privileges.
 
 
+4. Every moderation action, challenge, or governance decision is publicly auditable and cryptographically recorded on-chain.
 
-6. Governance & DAO Vision
-   
-The ADEX ecosystem will transition toward decentralized governance by enabling the community to actively participate in maintaining originality, shaping AI policy, and guiding platform evolution.
 
-Key Components
+5. Every NFT/iNFT flagged as “Inspired” or “Duplicate” is listed in a public on-chain registry, this also ncludes asset score, failure criteria, contract ancestry, and reason for rejection.
 
-i. Public Registry of Flagged/Rejected Assets
-
-Transparent Ledger: Every NFT/iNFT flagged as “Inspired” or “Duplicate” is listed in a public on-chain registry.
-
-Metadata Access: Includes asset score, failure criteria, contract ancestry, and reason for rejection.
-
-Educational Use: Helps creators understand originality standards.
-
-ii. Community-Based Originality Challenge System
 
 Dispute Mechanism: Creators or users can challenge originality scores via DAO proposals.
 
@@ -235,10 +145,80 @@ If challenge succeeds: score is updated, asset reclassified.
 
 If challenge fails: staked tokens are distributed to voters or burned.
 
-ADEX represents the next evolution of digital asset creation, merging blockchain transparency, AI intelligence, and user identity into a unified, decentralized platform. By introducing tools like onchain branding, originality scoring, and intelligent fusion mechanisms, ADEX empowers users, creators, and founders to define the value, purpose, and legacy of their NFTs and iNFTs. Whether preserving iconic collections, generating new hybrid identities, or enabling AI-powered avatars, ADEX lays the foundation for a trustable, creative, and scalable digital economy driven by authenticity, governed by community, and built for the future.
 
 
-Roadmap
+
+
+## Self-Minting & AI Avatar Creation
+
+As Web3 identity becomes more immersive and personalized, Asset Curator introduces on-chain, AI-enhanced avatars that fuse a user’s likeness and intent with intelligent agent models. This module allows any individual to mint themselves into a dynamic, intelligent NFT creating a fully onchain, AI-powered identity agent. 
+These minted profiles can be merged with our AI assistants e.g Chat agents, Trader, Storyteller, Defender, assistant, etc. Let your Avatar work for you!
+
+Overview
+The self-mint process begins when a user initiates a mint from the dApp or connected interface.
+
+This enables users to:
+
+i. Generate a digital twin from a webcam or image input
+
+ii. Fuse the digital twin with AI agents via the Fusion Protocol
+
+iii. Register the avatar with on-chain metadata, cryptographic hashes, and a wallet-bound ID and activate various AI modules (e.g., chat, trade, strategy, creative) to define behavior and skill sets. 
+
+
+
+
+
+## Verified Founder Remint System
+   
+To allow original creators to remint existing collections or individual collectibles without altering value, embedding Asset Curator authenticity, and joining the AC database.
+
+we attach the AC brand as a seal of authenticity and originality to verified reminted. 
+
+Remint without disrupting ownership history or price charts by retaining original token IDs, contract ancestry, and provenance data.
+
+Reconstructed collections gain access to the full AC stack: storage, burn, fusion, originality scoring, and AI Avatar Creation. 
+
+
+How it works. 
+
+1. Creator verifies contract ownership (via wallet signature)
+
+2. Submits collection for originality scanning
+
+3. If passed:
+
+Marked as AC Branded
+
+Mint-Type: Rebuild
+
+Included in searchable registry
+
+4. If failed:
+
+Blocked from reminting
+
+Flagged as non-original or low-quality derivative
+ Characters
+
+Benefits for Founders:
+
+
+i. Update metadata, visuals, and on-chain capabilities for modern standards without breaking the legacy ecosystem.
+
+
+ii. Option to convert static assets into iNFTs or add dynamic AI layers via 0G Oracle AI tools.
+
+
+iii. Prevent unauthorized forks and fakes by establishing on-chain branded authority tied to founder wallet.
+
+
+
+
+Asset Curator is not just an NFT platform it’s a full protocol layer for the next era of intelligent, sovereign, and modular AI agents on-chain. It empowers creators to mint AI into durable, ownable digital entities and empowers users and DAOs to interact with, govern, and evolve those entities responsibly.
+
+
+## Roadmap
 Q2-3 2025
 Smart contract audit
 
@@ -247,17 +227,27 @@ Testnet dApp live
 Remint AI originality model v1
 
 
-Contact Information. 
+
+
+
+INFTS:
+
+OG Labs introduces a new NFT standard called ERC7857, purpose built for managing agent ownership, metadata encryption, and AI lifecycle operations (such as minting, fusing, burning, cloning, and reminting). With built-in support for secure environments. 
+
+
+We plan to roll out more features as we develop this Curator and we plan to share more updates with you in the coming weeks as OG labs releases more updates on INFTS. 
+
+
+
+
+## Contact Information
 
 Twitter: @Assetcurator
 
-
 Email: ofwakandastudio@ptct.net
 
-TEAM
-Lead dev. 
+Lead Developer:
 Twitter: @_ofwakanda
-
 
 Email: Wakandajosephh@gmail.com
 
